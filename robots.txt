@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ghlorcate.github.io/sitemap.html.gz
+Sitemap: https://ghlorcate.github.io/app/sitemap.html.gz
+Sitemap: https://ghlorcate.github.io/assets/sitemap.html.gz
+Sitemap: https://ghlorcate.github.io/css/sitemap.html.gz
+Sitemap: https://ghlorcate.github.io/data/sitemap.html.gz
+Sitemap: https://ghlorcate.github.io/includes/sitemap.html.gz
+Sitemap: https://ghlorcate.github.io/item/sitemap.html.gz
+Sitemap: https://ghlorcate.github.io/src/sitemap.html.gz
